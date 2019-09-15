@@ -1,4 +1,4 @@
-Lectures on scientific computing with Python
+Lectures on scientific computing with Python edited
 ============================================
 
 <a href="https://notebooks.azure.com/import/gh/jrjohansson/scientific-python-lectures"><img src="https://notebooks.azure.com/launch.png" /></a>
